@@ -2,7 +2,8 @@
 
 ### In the Present
 - [X] Create a github pages website
-  - [ ] Add all relevant projects to it
+  - [ ] Add projects to it with short description
+  - [ ] Prune old projects
   - [ ] Link in pictures and/or repositories to the projects 
 - [ ] Solidify foundation in OOB programming by rewriting an older Java project in C#
 
