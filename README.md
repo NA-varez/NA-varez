@@ -8,6 +8,7 @@
 - [ ] Solidify foundation in OOB programming by rewriting an older Java project in C#
 
 ### In the Future
+- [ ] Transition Markdown Github Pages website to an html website
 - [ ] Take an online course on C
   - [ ] Demonstrate learning with a repository on github  
 - [ ] Take an online course on C++
