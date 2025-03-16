@@ -1,7 +1,5 @@
 # Hello! 👋
 
-I've recently decided to learn more about Github and Markdown! This profile README.md is my first step.
-
 ### In the Present
 - [X] Create a github pages website
   - [ ] Add all relevant projects to it
