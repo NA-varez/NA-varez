@@ -8,10 +8,8 @@
 - [ ] Solidify foundation in OOB programming by rewriting an older Java project in C#
 
 ### In the Future
-- [ ] Transition Markdown Github Pages website to an html website
-- [ ] Take an online course on C
-  - [ ] Demonstrate learning with a repository on github  
-- [ ] Take an online course on C++
+- [ ] Transition Markdown Github Pages website to an html website (Maybe just create a google sites website)
+- [ ] Learn C/C++ on a deeper level
   - [ ] Demonstrate learning with a repository on github   
 - [ ] Learn more about the Unix file system/command-line stuff (course maybe?) Unix commands, shell scripting, file system, editors
 
