@@ -5,6 +5,7 @@
   - [ ] Add projects to it with short descriptions
   - [ ] Link in pictures and/or repositories to the projects 
 - [ ] Solidify foundation in OOB programming by rewriting an older Java project in C#
+- [ ] Get moving on the Nixie Tube Clock project
 
 ### In the Future
 - [ ] Start a Embedded Systems / Digital Design project featuring an FPGA and MCU
