@@ -3,9 +3,10 @@
 ### In the Present
 - [X] Create a github pages website
 - [ ] Document and add to real-time sobel filtering project
-  - [X] Finish part 1
-  - [X] Finish part 2   
-  - [ ] Finish part 3
+  - [X] Finish part 1 - Makefile and compiling
+  - [X] Finish part 2 - Grayscale and Sobel Filter
+  - [X] Finish part 3a - Threading
+  - [ ] Finish part 3b - SIMD vector operations
 
 ### In the Future
 - [ ] Learn more about systems programming (course maybe?) Unix commands, shell scripting, etc.
