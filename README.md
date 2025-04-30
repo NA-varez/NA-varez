@@ -8,7 +8,7 @@
   - [ ] Finish part 3
 
 ### In the Future
-- [ ] Learn more about systems programming (course maybe?) Unix commands, shell scripting, file system, editors
+- [ ] Learn more about systems programming (course maybe?) Unix commands, shell scripting, etc.
 - [ ] Nixie tube clock power supply re-design
     
 - [ ] Finish github pages website
