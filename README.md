@@ -1,3 +1,8 @@
+> [!TIP]
+> _'Now the learning begins.'_ - Rick Hartley
+
+<!--
+ARCHIVE
 # Hello! 👋
 
 ### In the Present
@@ -16,12 +21,5 @@
   - [ ] Add projects to it with short descriptions
   - [ ] Link in pictures and/or repositories to the projects
   - [ ] Host website with 3rd party or own server computer
-
-> [!TIP]
-> _'Now the learning begins.'_ - Rick Hartley
-
-<!--
-ARCHIVE
-
 
 -->
