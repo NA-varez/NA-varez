@@ -7,7 +7,7 @@ Most recent
 Previously
 * [QUAD_IOT_PCB](https://github.com/NA-varez/QUAD_IOT_PCB) - handheld battery powered IoT 4-layer PCB board design
 * [FIRST_BUCK](https://github.com/NA-varez/FIRST_BUCK) - Solar-input capbable Buck converter
-* [NIXIE_TESTER_IN1_IN12A](https://github.com/NA-varez/NIXIE_TESTER_IN1_IN12A) - Cycles through digits
+* [NIXIE_TESTER_IN1_IN12A](https://github.com/NA-varez/NIXIE_TESTER_IN1_IN12A) - Cycles through nixie tube digits
 * [OPENCV_SOBEL](https://github.com/NA-varez/OPENCV_SOBEL) - Sobel filter optimization on raspberry pi 3
 
 
