@@ -2,7 +2,7 @@
 > _'Now the learning begins.'_ - Rick Hartley
 
 Most recent
-[OMNIXIE](https://github.com/NA-varez/OMNIXIE) - ch32v003-controlled HV flyback Nixie tube driver board
+* [OMNIXIE](https://github.com/NA-varez/OMNIXIE) - ch32v003-controlled HV flyback Nixie tube driver board
 
 Previously
 * [QUAD_IOT_PCB](https://github.com/NA-varez/QUAD_IOT_PCB) - handheld battery powered IoT 4-layer PCB board design
