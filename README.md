@@ -1,6 +1,3 @@
-> [!TIP]
-> _'Now the learning begins.'_ - Rick Hartley
-
 Most recent
 * [OMNIXIE](https://github.com/NA-varez/OMNIXIE) - ch32v003-controlled HV flyback Nixie tube driver board
 
@@ -9,6 +6,10 @@ Previously
 * [FIRST_BUCK](https://github.com/NA-varez/FIRST_BUCK) - Solar-input capbable Buck converter
 * [NIXIE_TESTER_IN1_IN12A](https://github.com/NA-varez/NIXIE_TESTER_IN1_IN12A) - Cycles through nixie tube digits
 * [OPENCV_SOBEL](https://github.com/NA-varez/OPENCV_SOBEL) - Sobel filter optimization on raspberry pi 3
+
+
+> [!TIP]
+> _'Now the learning begins.'_ - Rick Hartley
 
 
 <!--
