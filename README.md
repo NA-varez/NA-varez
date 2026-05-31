@@ -1,14 +1,11 @@
 Ongoing
 * [OMNIXIE](https://github.com/NA-varez/OMNIXIE) - ch32v003-controlled HV flyback Nixie tube driver board
-* [PCB_NOTES](https://github.com/NA-varez/) - Collection of notes/ideas for myself to catch mistakes before fab!
 
 Previously
 * [QUAD_IOT_PCB](https://github.com/NA-varez/QUAD_IOT_PCB) - handheld battery powered IoT 4-layer PCB board design
 * [FIRST_BUCK](https://github.com/NA-varez/FIRST_BUCK) - Solar-input capbable Buck converter
 * [NIXIE_TESTER_IN1_IN12A](https://github.com/NA-varez/NIXIE_TESTER_IN1_IN12A) - Cycles through nixie tube digits
 * [OPENCV_SOBEL](https://github.com/NA-varez/OPENCV_SOBEL) - Sobel filter optimization on raspberry pi 3B+
-* [AN_OKAY_REFLOW_TOASTER_OVEN](https://github.com/NA-varez) - Rough first attempt at a toaster oven
-* [AN_OKAY_DIY_PCB_ETCHING_PROCESS](htttps://github.com/NA-varez/) - DIY PCB etching and plating
 
 
 > [!TIP]
@@ -16,8 +13,8 @@ Previously
 
 
 <!--
-ARCHIVE
-# Hello! 👋
+
+* [PCB_NOTES](https://github.com/NA-varez/PCB_NOTES) - Collection of notes/ideas for myself to catch mistakes before fab!
 
 ### Right Now
 
@@ -55,5 +52,9 @@ ARCHIVE
   - [X] Finish part 2 - Grayscale and Sobel Filter
   - [X] Finish part 3a - Threading
   - [ ] Finish part 3b - SIMD vector operations
+
+
+  * [AN_OKAY_REFLOW_TOASTER_OVEN](https://github.com/NA-varez) - Rough first attempt at a toaster oven
+* [AN_OKAY_DIY_PCB_ETCHING_PROCESS](htttps://github.com/NA-varez/) - DIY PCB etching and plating
 
 -->
